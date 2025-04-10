@@ -1,4 +1,4 @@
-# C++/Qt GUI for Electromagnetic Tomography System
+# **C++/Qt GUI for Electromagnetic Tomography System**
 **Developed for**: Third year final project on replacing an existing LabVIEW-based GUI with the C++/Qt framework.
 The project repository is found in: https://github.com/shafhsn/EMT_16_Coil_Qt_GUI
 
